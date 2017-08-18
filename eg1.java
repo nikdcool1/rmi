@@ -36,4 +36,4 @@ x=(Student)Naming.lookup("rmi://localhost/XServer");
 x.addStudent(101,"Ramesh");
 System.out.println(x.getStudentCount());
 }
-} //dsadsdda
+}
